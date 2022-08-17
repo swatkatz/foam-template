@@ -9,7 +9,6 @@ tags: subgraphs supergraphs apollo enterprise
 
 ## Principles GraphQL and Demand Oriented Design
 - **Demand driven**
-  - sdsd
   - When I am establishing the types and fields that are made available, those are based on demand based systems
   - I will gather only what I need approach
 - **Domain driven design**

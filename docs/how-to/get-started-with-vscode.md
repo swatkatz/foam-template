@@ -11,7 +11,6 @@ VS Code supports various **keyboard shortcuts**, the most important for us are:
 | `cmd+O`       | open a file                  |
 | `cmd+P`       | use quickpick to open a file |
 | `cmd+shift+P` | invoke a command (see below) |
-hehe
 
 For more information, see the [VS Code keyboard cheat sheets](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference), where you can also see how to customize your keybindings.
 
